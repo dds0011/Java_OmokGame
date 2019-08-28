@@ -1,2 +1,2 @@
 # Java_OmokGame
-자바 
+자바 (미완)
